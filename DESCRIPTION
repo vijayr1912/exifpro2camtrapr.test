@@ -8,6 +8,15 @@ Authors@R:
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    fs,
+    camtrapR,
+    tictoc
+Suggests: 
+    covr,
+    testthat,
+    spelling
+Language: en-US

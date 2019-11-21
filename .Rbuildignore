@@ -1,2 +1,6 @@
 ^exifpro2camtrapr\.test\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^\.travis\.yml$
+^codecov\.yml$
+^data-raw$
